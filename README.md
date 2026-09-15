@@ -1,2 +1,2 @@
 # hanami-landing-page
-The landing page for Hanami. See you soon faunatics.
+A landing page project based on The Odin Project guidelines for Flexbox basics. Stylized based on a music ensemble.
